@@ -1,0 +1,139 @@
+
+/*                  About page                */
+.intro{
+    border:2px solid whitesmoke;
+    min-height: 1040px;
+    max-height: 2000px;
+    min-width: 100%;
+    max-width: 120px;
+    background-color: whitesmoke ;
+   
+}
+
+.center{
+    border:2px solid whitesmoke;
+    min-height: 600px;
+    max-height: 1800px;
+    width: 60%;
+    background-color: whitesmoke ;
+    color: rgb(104, 97, 97);
+    padding: 10px;
+    margin: 0 auto;
+    line-height: 23px;
+}
+.orange{
+    color: orangered;
+}
+
+.red{
+    color: rgb(202, 59, 7);
+}
+
+
+
+
+/*                  Home page                */
+
+.navbar{
+    background-color: rgba(215, 230, 7, 0.788) !important;
+}
+
+.nav-link{
+    font-weight: bold;
+}
+.img1{
+    min-height: 40px;
+    max-height: 80px;
+    min-width: 180px;
+    max-width: 200px;
+}
+
+.fa-user-circle{
+    font-size: 28px !important;
+}
+
+.fa-cart-arrow-down{
+    font-size: 32px !important;
+}
+
+.carousel-item{
+    height: 500px;
+    width: 100%;
+}
+
+.cardss{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.fa-truck,.fa-handshake-o,.fa-thumbs-up{
+    font-size: 32px !important;
+    margin-right: 15px;
+    color: rgba(128, 0, 128, 0.795);
+}
+h3{
+    color:rgba(128, 0, 128, 0.795) ;
+}
+
+.card1,.card2,.card3{
+    display: flex;
+    height: 80px;
+    width: 360px;
+    margin-top: 10px;
+    box-shadow: 2px 4px 5px grey;
+    background-color: rgba(255, 255, 0, 0.39);
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px 15px 15px 15px  !important;
+}
+
+.headings{
+    text-align: center;
+    color: rgba(128, 0, 128, 0.795);
+    font-weight: bold;
+    margin: 30px;
+}
+.headings > h1{
+    font-weight: bold;
+    text-shadow:2px 2px 2px purple;
+}
+.Sale{
+    margin-top: 50px;
+}
+.card{
+    height: auto;
+    width: 230px;
+    margin-bottom: 10px;
+}
+
+.btn-primary{
+    justify-content: space-around;
+    margin: 3px;
+    width: 100%;
+    background-color:rgba(128, 0, 128, 0.795) ;
+    border: 2px rgba(128, 0, 128, 0.795);
+}
+.card-text{
+    font-weight: bold;
+}
+.footer{
+    background-color:rgba(128, 0, 128, 0.795); 
+    height: 100px;
+    width: 100%;
+}
+h4{
+    font-size: 15px;
+    padding-top: 20px;
+}
+.footer > div{
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+}
+.fa-facebook-official,.fa-instagram,.fa-whatsapp,.fa-twitter-square,.fa-youtube-square{
+    font-size: 25px !important;
+    margin: 5px;
+}
