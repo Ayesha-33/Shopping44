@@ -133,7 +133,36 @@ h4{
     color: white;
     margin-top: 20px;
 }
-.fa-facebook-official,.fa-instagram,.fa-whatsapp,.fa-twitter-square,.fa-youtube-square{
+.fa-facebook-official,.fa-instagram,.fa-whatsapp,.fa-twitter-square,.fa-youtube-square,.fa-google-plus{
     font-size: 25px !important;
     margin: 5px;
 }
+
+/*                LOG IN                 */
+
+.form{
+    padding-top: 100px;
+    text-align: center !important;
+  
+}
+
+.form-group{
+    /* width: 50%; */
+    max-width: 30%;
+    min-width: 50%;
+    margin: 0 auto;
+    padding-top: 10px;
+
+}
+
+body{
+    /* background-repeat: no-repeat; */
+   
+}
+/*                 SIGN UP                */
+.col{
+    margin: 0 auto;
+    padding-top: 10px;
+
+}
+
